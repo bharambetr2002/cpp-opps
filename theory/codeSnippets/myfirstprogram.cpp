@@ -1,10 +1,7 @@
-// Display Hello world
-
 #include <iostream>
 using namespace std;
-
 int main()
 {
-    cout << "Hello World !!";
+    cout << "Hey its my first program !!";
     return 0;
 }
